@@ -1,0 +1,106 @@
+--------------------------------------可以取代期末考的報告主題 ------------------------------------------
+
+一.有同學可以說明【磁帶金融卡】與【內嵌晶片的金融卡】安全技術有何不同(Ch1_資訊安全概論-P6)
+https://sls.weco.net/blog/allansong/04-jan-2007/2389
+
+二.何謂Single sign-on(單一登入, 單一簽入)
+
+三.challenge and response盤問與回應 PPT_Ch1_P20
+
+四.IPV6
+
+五.入侵偵測系統 (intrusion detection system, IDS)
+
+六.Secure Socket Layer (SSL) 協定
+
+
+*七.Network Address Translation (NAT) 轉址服務
+
+*八.VPN (virtual private network) 虛擬私人網路 & Tunneling Protocol (隧道協議)
+
+*九.RAID 容錯式磁碟陣列*
+
+*十.Mirror 磁碟鏡像*
+
+
+-------- 以下為課堂提到重要的術語:同學必須能用2~3句話告訴別人它在講什麼 ------------------前面有星號是考試的重點
+
+*1:Demilitarization Zone (DMZ) 非軍事區
+2.身分認證 (authentication)
+3.存取控制 (access control) 
+4.防火牆 (firewall)
+5.防毒軟體 (anti-virus)
+*6.一次性密碼 (one-time password)   與46相關
+7.重送攻擊(replay attack)
+8.符節 (tokens) 
+*9.憑證 (certificates)  與八及31相關
+*10.Domain Name Service (DNS)   
+	註: 	cmd	> ping www.tcust.edu.tw
+-----------------------------------------------------------------------
+11.Proxy Server (網路代理伺服器)
+*12.Internet, Intranet, Extranet
+*13.Virtual Local Area Networks (VLAN) 虛擬區域網路
+
+14.R&D	研發工程師（Research and Development Engineer）
+15.MIS	管理資訊系統Management Information System 
+16.IT	資訊科技 Information Technology
+17.Front-End Developer	前端工程師
+18.Back End Developer	後端工程師
+19.Full Stack Developer	全端工程師
+20.UI	使用者介面User Interface
+-----------------------------------------------------------------------
+21.UX 	使用者體驗User Experience
+
+22.Hardware	硬體
+23.Software	軟體
+*24.Firmware	軔體
+25.我是作system的	
+26.system driver	驅動程式
+27.DBA	資料庫管理員DataBase Administrator  
+*28.備份(異地) 
+*29.備援  
+30.SQL Injection 資料隱碼攻擊
+----------------------------------------------------------------------
+*31.https:// 443 埠 (port)
+*32.hash 雜湊函數
+*33.Signature 簽章
+34.Timestamp 時戳
+35.網路服務商 (Internet service provider, ISP)
+*36.拒絕服務 (denial of service, DOS) 攻擊 
+*37.DDOS攻擊 
+38.字典攻擊 (dictionary attack)
+39.窮舉攻擊 (brute-force attack) 暴力攻擊 
+40.後門攻擊（backdoor attack)
+-----------------------------------------------------------------------
+*41.網路釣魚 (phishing)
+*42.cookies
+43.Spam	【電腦】垃圾郵件
+44.Malware 惡意程式(軟體): (virus, worm, Trojan Horse),  From Malicious
+*45.虛擬主機(Virtual Machine) 
+46.Challenge and Response
+	
+47.風險評估/分析/管理 *
+*48.緊急應變計畫 (A.業務持續計畫, B.災難復原計畫) 
+49.ISO 27001 資訊安全認證 (說,寫,作一致)
+*50.Cache 快取
+-----------------------------------------------------------------------
+51.加密貨幣 cryptocurrency (比特幣)
+52.區塊鏈 Blockchain
+53.挖礦 Mining
+54.什麼是 IP (全稱Internet Protocol Address), 它的組成;與 IPV6 的關係
+55.MAC 實體位址 (Media Access Control Address)
+56.16進制 (Hexadecimal，Hex)
+57.ASCII code (碼 
+58.時間複雜度Big(O), 空間複雜度Big(N)
+
+
+
+
+
+
+
+
+
+
+ 
+
