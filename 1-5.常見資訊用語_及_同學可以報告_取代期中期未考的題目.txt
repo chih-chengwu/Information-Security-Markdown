@@ -92,6 +92,7 @@ https://sls.weco.net/blog/allansong/04-jan-2007/2389
 56.16進制 (Hexadecimal，Hex)
 57.ASCII code (碼 
 58.時間複雜度Big(O), 空間複雜度Big(N)
+59.積體電路 (Integrated Circuit, IC)
 
 
 
